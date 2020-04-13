@@ -5,7 +5,7 @@ The realization of neural combination of handwritten Chinese text recognition, t
 
 python 3
 
-pytorch 1.4
+pytorch 1.0 or higher
 
 ## Usage
 1. Clone the repo.
